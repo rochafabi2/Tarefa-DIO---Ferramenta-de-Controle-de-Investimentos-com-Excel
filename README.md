@@ -94,3 +94,7 @@ Foi criada uma tabela de apoio Planilha 2.  Ela armazena as combinações de per
 Abra o arquivo Ferramenta de Controle de Investimentos com Excel.xlsx no Microsoft Excel ou importe-o no Google Planilhas.
 Acesse a aba de configurações e informe seus parâmetros (renda mensal, percentual de aporte desejado, etc.).
 Comece a cadastrar suas posições e acompanhe as atualizações automáticas dos totais e rendimentos.
+
+
+Autoria: Fabiana Batista Rocha
+Linkedin: https://www.linkedin.com/in/fabiana-batista-rocha-a725b1167/
