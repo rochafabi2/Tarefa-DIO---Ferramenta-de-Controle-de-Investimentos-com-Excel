@@ -27,7 +27,7 @@ O projeto foi construído com a orientação do professor, onde exploramos a cap
     - Dividendos Mensais? (rendimento, calculado pelo Excel)
       <img width="705" height="178" alt="image" src="https://github.com/user-attachments/assets/5b94ea0b-772d-4caa-8fd1-d1089fad3eeb" />
 
-- **Tabela Cenários**:
+ **Tabela Cenários**:
   - o usuário poderá ver, já calculado, quanto o aporte renderá em 05 cenários diferentes (02, 5, 10, 20 e 30 anos)
    <img width="706" height="154" alt="image" src="https://github.com/user-attachments/assets/8cc3cf6f-9888-4e52-8d4b-958d5f0535d6" />
 
@@ -74,7 +74,8 @@ Foi criada uma tabela de apoio Planilha 2.  Ela armazena as combinações de per
 
   
 
-**Tabela aba Planilha2**<img width="565" height="422" alt="Captura de tela 2026-09-24 150053" src="https://github.com/user-attachments/assets/d5ea65b4-a4f1-49d7-90ea-6d63c32a4c15" />
+**Tabela aba Planilha2**
+<img width="565" height="422" alt="Captura de tela 2026-09-24 150053" src="https://github.com/user-attachments/assets/d5ea65b4-a4f1-49d7-90ea-6d63c32a4c15" />
 
 - Concatenação de Texto (& ou CONCATENAR)
 - Tabela / Intervalo: Tabela de Matriz de Perfis (Aba Planilha2, Coluna Chave)12
