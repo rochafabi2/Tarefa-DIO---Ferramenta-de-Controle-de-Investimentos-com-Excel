@@ -75,7 +75,7 @@ Foi criada uma tabela de apoio Planilha 2.  Ela armazena as combinações de per
   
 
 **Tabela aba Planilha2**
-<img width="565" height="422" alt="Captura de tela 2026-09-24 150053" src="https://github.com/user-attachments/assets/d5ea65b4-a4f1-49d7-90ea-6d63c32a4c15" />
+  <img width="565" height="422" alt="Captura de tela 2026-09-24 150053" src="https://github.com/user-attachments/assets/d5ea65b4-a4f1-49d7-90ea-6d63c32a4c15" />
 
 - Concatenação de Texto (& ou CONCATENAR)
 - Tabela / Intervalo: Tabela de Matriz de Perfis (Aba Planilha2, Coluna Chave)12
