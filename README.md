@@ -59,6 +59,14 @@ Foi criada uma tabela de apoio Planilha 2.  Ela armazena as combinações de per
 - Fórmula: = Valor a ser investido por mês * Percentual Sugerido
 - Função: Converte o percentual sugerido no valor exato em Reais a ser aplicado em cada categoria de fundo imobiliário.
 
+**Tabela aba Planilha2**
+- Concatenação de Texto (& ou CONCATENAR)
+- Tabela / Intervalo: Tabela de Matriz de Perfis (Aba Planilha2, Coluna Chave)12
+- Fórmula: = B3 & "-" & C3
+- Função: Une o nome do Perfil (Coluna B) com o Tipo de FII (Coluna C) para gerar uma chave de busca única (exemplo: Conservador-PAPEL ou Moderado-TIJOLO). Essa chave é fundamental para que a função PROCV/PROCX na aba App encontre a porcentagem exata referente ao perfil escolhido.
+
+**Resumo das fórmulas utilizadas**
+
 
 ## Como Utilizar
 
