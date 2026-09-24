@@ -1,3 +1,5 @@
+[Ferramenta de Controle de Investimentos com Excel.xlsx](https://github.com/user-attachments/files/32621618/Ferramenta.de.Controle.de.Investimentos.com.Excel.xlsx)
+[Ferramenta de Controle de Investimentos com Excel.xlsx](https://github.com/user-attachments/files/32621614/Ferramenta.de.Controle.de.Investimentos.com.Excel.xlsx)
 # Tarefa-DIO---Ferramenta-de-Controle-de-Investimentos-com-Excel
 Foi criado um arquivo Excel para calcular investimentos, solicitado pelo prof. Felipão para finalização do módulo do curso Santander - Excel com IA e Claude
 
@@ -89,6 +91,7 @@ Foi criada uma tabela de apoio Planilha 2.  Ela armazena as combinações de per
 
 1. **Clone ou baixe o repositório**:
   
+[Ferramenta de Controle de Investimentos com Excel.xlsx](https://github.com/user-attachments/files/32621618/Ferramenta.de.Controle.de.Investimentos.com.Excel.xlsx)
 Abra o arquivo Ferramenta de Controle de Investimentos com Excel.xlsx no Microsoft Excel ou importe-o no Google Planilhas.
 Acesse a aba de configurações e informe seus parâmetros (renda mensal, percentual de aporte desejado, etc.).
 Comece a cadastrar suas posições e acompanhe as atualizações automáticas dos totais e rendimentos.
