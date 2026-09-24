@@ -51,16 +51,12 @@ Foi criada uma tabela de apoio Planilha 2.  Ela armazena as combinações de per
 - Fórmula: = Salário * 30%1
 - Função: Multiplica o valor total informado da renda/salário por 30% (0,30) para calcular automaticamente a sugestão ideal de aporte mensal.
 
-  <img width="706" height="241" alt="image" src="https://github.com/user-attachments/assets/1ec24946-0547-4628-b392-f6f4d2ac55ae" />
-
-
+ 
 **Tabela de Investimento Mensal, aba App**
 - Fórmula: = VF(Taxa; Anos * 12; -AporteMensal)
 - Função: Simula o acúmulo de patrimônio ao longo do tempo (juros compostos), somando os depósitos mensais regulares com os rendimentos acumulados no período especificado.
 - Fórmula: = Patrimônio Acumulado * Rendimento da Carteira1
 - Função: Multiplica o valor total do patrimônio acumulado pela taxa mensal estimada para calcular a renda passiva mensal em Reais.
-
-  <img width="705" height="178" alt="image" src="https://github.com/user-attachments/assets/85714c14-3e1d-4604-bebc-bcfaf6c3dabb" />
 
 
 **Tabela Cenários, aba app**
@@ -69,8 +65,6 @@ Foi criada uma tabela de apoio Planilha 2.  Ela armazena as combinações de per
 - Fórmula: Multiplicação do patrimônio projetado de cada período pela taxa de retorno mensal estimada.
 - Função: Estima os dividendos mensais em Reais gerados pelo patrimônio acumulado em cada cenário de tempo.
 
-  <img width="708" height="156" alt="image" src="https://github.com/user-attachments/assets/3be98351-3405-4623-8b64-02fd30d1f9a5" />
-
 
 **Tabela Perfil, aba app**
 - Fórmula: = PROCV(Perfil & "-" & TipoFII; MatrizPlanilha2; ColunaPorcentagem; FALSO)
@@ -78,8 +72,7 @@ Foi criada uma tabela de apoio Planilha 2.  Ela armazena as combinações de per
 - Fórmula: = Valor a ser investido por mês * Percentual Sugerido
 - Função: Converte o percentual sugerido no valor exato em Reais a ser aplicado em cada categoria de fundo imobiliário.
 
-  <img width="709" height="226" alt="image" src="https://github.com/user-attachments/assets/d77e369e-b1f6-4599-aa11-6f6544c47cf3" />
-
+  
 
 **Tabela aba Planilha2**<img width="565" height="422" alt="Captura de tela 2026-09-24 150053" src="https://github.com/user-attachments/assets/d5ea65b4-a4f1-49d7-90ea-6d63c32a4c15" />
 
